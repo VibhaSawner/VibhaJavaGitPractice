@@ -35,7 +35,7 @@ public class Assignment33 {
 	public static void main(String[] args) {
 		Assignment33 assignment33=new Assignment33();
 		int [] arr= {10,20,30,10,40,20};
-		//assignment33.m1(arr);
-		assignment33.m2(arr);;
+		assignment33.m1(arr);
+		//assignment33.m2(arr);;
 	}
 }
