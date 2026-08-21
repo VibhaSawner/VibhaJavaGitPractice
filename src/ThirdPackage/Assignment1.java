@@ -10,10 +10,11 @@ public class Assignment1 {
 		
 		for(int i=0;i<arr.length;i++) {
 		System.out.println("hi added branch A");
-			System.out.println(arr[i]+"chnages on branch B");
+			System.out.println(arr[i]+"SecondTime changes on line no 13");
 		}
 		System.out.println("Chnages on branch B");
 		System.out.println("Chnages on branch B added new line");
 		System.out.println("Secondtime changes=== on branch B ");
+		System.out.println("SecondTime changes line added on 17");
 }
 }
