@@ -14,5 +14,6 @@ public class Assignment1 {
 		}
 		System.out.println("Chnages on branch B");
 		System.out.println("Chnages on branch B added new line");
+		System.out.println("Secondtime changes=== on branch B ");
 }
 }
